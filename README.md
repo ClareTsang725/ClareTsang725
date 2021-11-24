@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClareTsang725
 - 👀 I’m interested in actuarial science, data science and computer science
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking for jobs related to data and actuarial analytics
+- 💞️ I’m looking for jobs related to data analytics and actuarial science
 - 📫 How to reach me https://www.linkedin.com/in/clare-tsang-099015159/
 
 <!---
